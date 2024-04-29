@@ -18,4 +18,7 @@ The first one is clean, the others are dirty by adding noise in the records.
 ## Files
 
 In `notebook`  folder are stored the notebook used for the projects.
-In `data` are stored the embedding of each table to speedup computation. 
+
+The `data` are stored in google drives. The embeddings can be retrieved here: [data](https://drive.google.com/drive/folders/1BTyFyfAgUPi4sshXUhit7Lcf62SXFte6?usp=sharing). 
+The embeddings are zipped and separated by instruction id. 
+Are stored also the train/valid split for training pourpose. 
